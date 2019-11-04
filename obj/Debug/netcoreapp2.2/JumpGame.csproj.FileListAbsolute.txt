@@ -1,0 +1,11 @@
+C:\Users\13738\source\repos\JumpGame\bin\Debug\netcoreapp2.2\JumpGame.deps.json
+C:\Users\13738\source\repos\JumpGame\bin\Debug\netcoreapp2.2\JumpGame.runtimeconfig.json
+C:\Users\13738\source\repos\JumpGame\bin\Debug\netcoreapp2.2\JumpGame.runtimeconfig.dev.json
+C:\Users\13738\source\repos\JumpGame\bin\Debug\netcoreapp2.2\JumpGame.dll
+C:\Users\13738\source\repos\JumpGame\bin\Debug\netcoreapp2.2\JumpGame.pdb
+C:\Users\13738\source\repos\JumpGame\obj\Debug\netcoreapp2.2\JumpGame.csprojAssemblyReference.cache
+C:\Users\13738\source\repos\JumpGame\obj\Debug\netcoreapp2.2\JumpGame.csproj.CoreCompileInputs.cache
+C:\Users\13738\source\repos\JumpGame\obj\Debug\netcoreapp2.2\JumpGame.AssemblyInfoInputs.cache
+C:\Users\13738\source\repos\JumpGame\obj\Debug\netcoreapp2.2\JumpGame.AssemblyInfo.cs
+C:\Users\13738\source\repos\JumpGame\obj\Debug\netcoreapp2.2\JumpGame.dll
+C:\Users\13738\source\repos\JumpGame\obj\Debug\netcoreapp2.2\JumpGame.pdb
